@@ -1,6 +1,3 @@
-# product-case-studies
-Product management case studies with AI-focused thinking
-
 # Case Study 1: AI-Based Customer Support Assistant
 
 ## 1. Problem
